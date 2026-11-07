@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Disallow: /private/
+
+Sitemap: https://lawlegal500.com/sitemap.xml
+
+# Allow major crawlers explicitly
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
